@@ -1,0 +1,2763 @@
+[09:33:02] Ready. Choose your drawings and a model, then press Run.
+[09:33:12] Starting run...
+[09:33:12] Running controls stage on C:\Users\rperry\source\repos\Drawing to instrument list translator\test_results\PG-984E Rev4.pdf
+[09:33:16] Starting controls extraction using model 'gemma3:4b'
+[09:33:16] Docling: enabled=True, OCR=True, Tables=True, Pictures=False, Scale=3.0x
+[09:33:16] ✓ Docling VLM Pipeline (Granite-Vision-3.3-2B):
+[09:33:17]   Full-page VLM conversion: OCR + layout + markdown in single model
+[09:33:17]   Model: Granite-Vision-3.3-2B (2B parameters, excellent for technical documents)
+[09:33:17]   Inference engines: Transformers, MLX, OpenAI-compatible, vLLM
+[09:33:17]   Output: Clean, structured markdown with preserved layout
+[09:33:17] [OCR PRE-STEP] PG-984E Rev4.pdf: 17 page(s) requested, 17 cached, 0 to OCR
+[09:33:17] Processing page 1/17
+[09:33:17] Sending page 1 image + 7461 chars of Docling markdown to vision model...
+[09:33:17] Vision model: gemma3:4b
+[09:33:17] Vision model processing started...
+```json
+{
+  "instruments": [
+    {
+      "name": "AI-1",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+    {
+      "name": "AI-2",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+    {
+      "name": "AI-3",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+    {
+      "name": "AI-4",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+    {
+      "name": "AI-5",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+     {
+      "name": "AI-6",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+     {
+      "name": "AI-7",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+     {
+      "name": "AI-8",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-9",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-10",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-11",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-12",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-13",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-14",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-15",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-16",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    }
+
+  ]
+}
+```
+[09:34:11] Response received with keys: message, done
+[09:34:11] Message contains: content
+[09:34:11]  No thinking field found in response
+[09:34:11] Vision model processing completed.
+[09:34:11] Response received: 4128 characters
+[09:34:11] Raw model response for page 1: ```json
+{
+  "instruments": [
+    {
+      "name": "AI-1",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+    {
+      "name": "AI-2",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+    {
+      "name": "AI-3",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+    {
+      "name": "AI-4",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+    {
+      "name": "AI-5",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+     {
+      "name": "AI-6",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+     {
+      "name": "AI-7",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+     {
+      "name": "AI-8",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-9",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-10",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-11",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-12",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-13",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-14",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-15",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    },
+
+     {
+      "name": "AI-16",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "2",
+      "wire_type": "BLUWHT OR GRY 16AWG",
+      "intrinsic_safety": false,
+      "Notes": "Internal DC connection from PLC"
+    }
+
+  ]
+}
+```
+[09:34:11] Parsed page 1: {"instruments": [{"name": "AI-1", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-2", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-3", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-4", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-5", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-6", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-7", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-8", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-9", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-10", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-11", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-12", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-13", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-14", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-15", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}, {"name": "AI-16", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Internal DC connection from PLC"}]}
+[09:34:11] Processing page 2/17
+[09:34:12] Sending page 2 image + 99718 chars of Docling markdown to vision model...
+[09:34:12] Vision model: gemma3:4b
+[09:34:12] Vision model processing started...
+```json
+{
+  "instruments": [
+    {
+      "name": "HMI",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "Rittal WM483612N4 ENCLOSURE WM 48X36X12, NEMA 4X PanelView Plus 7, 10-in"
+    },
+    {
+      "name": "SUN SHADE",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "SUN SHADE - HMI PROTECTOR LARGE"
+    },
+    {
+      "name": "PURGE OK LIGHT",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "800H PB, 30mm PILOT LIGHT, FULL V TYPE W/INCAND LAMP, LED LAMP, 12 TO 130V AC/DC GREEN"
+    },
+    {
+      "name": "E-STOP",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "PUSH BUTTON, ESTOP, HAZARDOUS LOCATION, TYPE 4X"
+    },
+    {
+      "name": "BUTTON GUARD",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "BUTTON GUARD ATTACHMENT FOR 3OMM BUTTONS"
+    },
+    {
+      "name": "Z-PURGE ACCESSORIES",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "BEST PURGING SYSTEM, CLASS 1, DIVISION 2. GAS (STANDARD), EXPLOSION PROOF/FLAME PROOF HOUSING (SIDE MOUNT) 24VDC, <15 CUBIC FEET (SMALL), 316 STAINLESS STEEL."
+    },
+    {
+      "name": "Z-PURGE",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "Best Purge YZ-102-CI-B-V-24 Purge Unit, Division 1 to Non-Hadardous, 15CF Maximum, Class 1 Group B/C/D Switch, Vertical Mount, 24VDC"
+    },
+    {
+      "name": "IND. LIGHT",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "MULTI-STATUS INDICATOR, RED, AMBER, GREEN, 24VDC"
+    },
+    {
+      "name": "PIPE ADAPTER",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "Banner SA-M365OP Beacon Light Thread Cover for 3/4\" Conduit"
+    },
+     {
+      "name": "HORN",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "UL AND CUL LISTED CLASS 1, DIVISION 2 - HORN, 12 TO 24V DC, 99 dB, TYPE 4X"
+    },
+    {
+      "name": "CORDSET",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "K100 Beacon Cordset A-Code M12 Single Ended; 5-pin 24VDC"
+    },
+    {
+       "name": "ENLOCSURES COOL",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "SIDE BRACKETS FOR HEATER MOUNT"
+    },
+    {
+       "name": "CIRCUITS BREAKER 1",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "1 Pole AC400V,20A, Trip Curve C"
+    },
+     {
+       "name": "CIRCUITS BREAKER 2",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "1 Pole AC400V,10A, Trip Curve C"
+    },
+      {
+       "name": "CIRCUITS BREAKER 3",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "1 Pole AC400V,6A, Trip Curve C"
+    },
+    {
+       "name": "CIRCUITS BREAKER 4",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "1 Pole AC400V,5A, Trip Curve C"
+    },
+      {
+       "name": "ETHERNET SWITCH",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "6 PORT INDUSTRIAL ETHERNET SWITCH FOUR 10/100BASET RJ-45 PORTS TWO 100BASEEX"
+    },
+      {
+       "name": "Panel Heater Hygrometer",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "ENCLOSURE HEATER WITH FAN, 335W, 115V AC, 1PHASE, 50Hz/60Hz ELECTRONIC HYGROTHERM, 100-24OV AC, CHANGE-OVER CONTACT (RELAY), 10A"
+    },
+      {
+        "name": "DOOR SWITCH",
+        "description": "[unclear]",
+        "Responsibility":"CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "Door-Operated Switch for LED System Light"
+
+    }
+
+
+  ]
+}
+```
+[09:35:03] Response received with keys: message, done
+[09:35:03] Message contains: content
+[09:35:03]  No thinking field found in response
+[09:35:03] Vision model processing completed.
+[09:35:03] Response received: 5546 characters
+[09:35:03] Raw model response for page 2: ```json
+{
+  "instruments": [
+    {
+      "name": "HMI",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "Rittal WM483612N4 ENCLOSURE WM 48X36X12, NEMA 4X PanelView Plus 7, 10-in"
+    },
+    {
+      "name": "SUN SHADE",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "SUN SHADE - HMI PROTECTOR LARGE"
+    },
+    {
+      "name": "PURGE OK LIGHT",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "800H PB, 30mm PILOT LIGHT, FULL V TYPE W/INCAND LAMP, LED LAMP, 12 TO 130V AC/DC GREEN"
+    },
+    {
+      "name": "E-STOP",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "PUSH BUTTON, ESTOP, HAZARDOUS LOCATION, TYPE 4X"
+    },
+    {
+      "name": "BUTTON GUARD",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "BUTTON GUARD ATTACHMENT FOR 3OMM BUTTONS"
+    },
+    {
+      "name": "Z-PURGE ACCESSORIES",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "BEST PURGING SYSTEM, CLASS 1, DIVISION 2. GAS (STANDARD), EXPLOSION PROOF/FLAME PROOF HOUSING (SIDE MOUNT) 24VDC, <15 CUBIC FEET (SMALL), 316 STAINLESS STEEL."
+    },
+    {
+      "name": "Z-PURGE",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "Best Purge YZ-102-CI-B-V-24 Purge Unit, Division 1 to Non-Hadardous, 15CF Maximum, Class 1 Group B/C/D Switch, Vertical Mount, 24VDC"
+    },
+    {
+      "name": "IND. LIGHT",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "MULTI-STATUS INDICATOR, RED, AMBER, GREEN, 24VDC"
+    },
+    {
+      "name": "PIPE ADAPTER",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "Banner SA-M365OP Beacon Light Thread Cover for 3/4\" Conduit"
+    },
+     {
+      "name": "HORN",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "UL AND CUL LISTED CLASS 1, DIVISION 2 - HORN, 12 TO 24V DC, 99 dB, TYPE 4X"
+    },
+    {
+      "name": "CORDSET",
+      "description": "[unclear]",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": "K100 Beacon Cordset A-Code M12 Single Ended; 5-pin 24VDC"
+    },
+    {
+       "name": "ENLOCSURES COOL",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "SIDE BRACKETS FOR HEATER MOUNT"
+    },
+    {
+       "name": "CIRCUITS BREAKER 1",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "1 Pole AC400V,20A, Trip Curve C"
+    },
+     {
+       "name": "CIRCUITS BREAKER 2",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "1 Pole AC400V,10A, Trip Curve C"
+    },
+      {
+       "name": "CIRCUITS BREAKER 3",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "1 Pole AC400V,6A, Trip Curve C"
+    },
+    {
+       "name": "CIRCUITS BREAKER 4",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "1 Pole AC400V,5A, Trip Curve C"
+    },
+      {
+       "name": "ETHERNET SWITCH",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "6 PORT INDUSTRIAL ETHERNET SWITCH FOUR 10/100BASET RJ-45 PORTS TWO 100BASEEX"
+    },
+      {
+       "name": "Panel Heater Hygrometer",
+        "description": "[unclear]",
+        "Responsibility": "CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "ENCLOSURE HEATER WITH FAN, 335W, 115V AC, 1PHASE, 50Hz/60Hz ELECTRONIC HYGROTHERM, 100-24OV AC, CHANGE-OVER CONTACT (RELAY), 10A"
+    },
+      {
+        "name": "DOOR SWITCH",
+        "description": "[unclear]",
+        "Responsibility":"CUSTOMER",
+        "wire_count": "1",
+        "wire_type": "shielded",
+        "intrinsic_safety": false,
+        "Notes": "Door-Operated Switch for LED System Light"
+
+    }
+
+
+  ]
+}
+```
+[09:35:03] Parsed page 2: {"instruments": [{"name": "HMI", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Rittal WM483612N4 ENCLOSURE WM 48X36X12, NEMA 4X PanelView Plus 7, 10-in"}, {"name": "SUN SHADE", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "SUN SHADE - HMI PROTECTOR LARGE"}, {"name": "PURGE OK LIGHT", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "800H PB, 30mm PILOT LIGHT, FULL V TYPE W/INCAND LAMP, LED LAMP, 12 TO 130V AC/DC GREEN"}, {"name": "E-STOP", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "PUSH BUTTON, ESTOP, HAZARDOUS LOCATION, TYPE 4X"}, {"name": "BUTTON GUARD", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "BUTTON GUARD ATTACHMENT FOR 3OMM BUTTONS"}, {"name": "Z-PURGE ACCESSORIES", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "BEST PURGING SYSTEM, CLASS 1, DIVISION 2. GAS (STANDARD), EXPLOSION PROOF/FLAME PROOF HOUSING (SIDE MOUNT) 24VDC, <15 CUBIC FEET (SMALL), 316 STAINLESS STEEL."}, {"name": "Z-PURGE", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Best Purge YZ-102-CI-B-V-24 Purge Unit, Division 1 to Non-Hadardous, 15CF Maximum, Class 1 Group B/C/D Switch, Vertical Mount, 24VDC"}, {"name": "IND. LIGHT", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "MULTI-STATUS INDICATOR, RED, AMBER, GREEN, 24VDC"}, {"name": "PIPE ADAPTER", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Banner SA-M365OP Beacon Light Thread Cover for 3/4\" Conduit"}, {"name": "HORN", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "UL AND CUL LISTED CLASS 1, DIVISION 2 - HORN, 12 TO 24V DC, 99 dB, TYPE 4X"}, {"name": "CORDSET", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "K100 Beacon Cordset A-Code M12 Single Ended; 5-pin 24VDC"}, {"name": "ENLOCSURES COOL", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "SIDE BRACKETS FOR HEATER MOUNT"}, {"name": "CIRCUITS BREAKER 1", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "1 Pole AC400V,20A, Trip Curve C"}, {"name": "CIRCUITS BREAKER 2", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "1 Pole AC400V,10A, Trip Curve C"}, {"name": "CIRCUITS BREAKER 3", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "1 Pole AC400V,6A, Trip Curve C"}, {"name": "CIRCUITS BREAKER 4", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "1 Pole AC400V,5A, Trip Curve C"}, {"name": "ETHERNET SWITCH", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "6 PORT INDUSTRIAL ETHERNET SWITCH FOUR 10/100BASET RJ-45 PORTS TWO 100BASEEX"}, {"name": "Panel Heater Hygrometer", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "ENCLOSURE HEATER WITH FAN, 335W, 115V AC, 1PHASE, 50Hz/60Hz ELECTRONIC HYGROTHERM, 100-24OV AC, CHANGE-OVER CONTACT (RELAY), 10A"}, {"name": "DOOR SWITCH", "description": "[unclear]", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Door-Operated Switch for LED System Light"}]}
+[09:35:03] Processing page 3/17
+[09:35:03] Sending page 3 image + 47026 chars of Docling markdown to vision model...
+[09:35:03] Vision model: gemma3:4b
+[09:35:03] Vision model processing started...
+```json
+{
+  "instruments": [
+    {
+      "name": "BARRIER",
+      "description": "230000310 - 230000350",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "2",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "1CH, POTENTIOMETER CONVERTER",
+      "description": "230000350 - KCD2-SCD-EX1",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "EARTH RAIL",
+      "description": "230000059 - ECINSGB14",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "CARTRIDGE FUSE - LittleFuse 021 5005.HXP",
+      "description": "230000287, 230000041, 230000064 - 5A 250 V AC DC Fuse Cartridge, Ceramic",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "41",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "AUXILIARY CONTACT (2NO)",
+      "description": "TBD - 100-FA20",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "Wire Duct - Panduit F1X4IB6",
+      "description": "Panduit F1X4IB6 Wire Duct, 1\" X 4\", Blue, Lead-Free PVC",
+      "Responsibility": "SKID",
+      "wire_count": "4",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct - Panduit F2X4LG6",
+      "description": "Panduit F2X4LG6 Wire Duct, 2” x 4\" Panduit Wire Duct, Narrow Finger",
+      "Responsibility": "SKID",
+      "wire_count": "4",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct - Panduit F3X4LG6",
+      "description": "Wire duct Panduit F3X4LG6 Lead-free PVC. 3\" x 4" (76.2 mm × 101.6 mm) and 6' (1.83 m) long.",
+      "Responsibility": "SKID",
+      "wire_count": "4",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct Cover - Panduit C1IB6",
+      "description": "Panduit C1IB6 Wire Duct Cover, 1\", Blue, Lead-Free PVC",
+      "Responsibility": "SKID",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct Cover - Panduit C2LG6",
+      "description": "Panduit C2LG6 Wire Duct Cover, 2\", Light-Gray, Lead-Free PVC",
+      "Responsibility": "SKID",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct Cover - Panduit C3LG6-F",
+      "description": "Panduit C3LG6-F 3\" Cover Light Grey Panduit SD4H6 Slotted Divider Wall 4\" tall 6' long",
+      "Responsibility": "SKID",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+       "name": "DIN RAIL",
+       "description": "35MM X 7.5MM X 1M ZINC PLATED STEEL",
+       "Responsibility": "SKID",
+       "wire_count": "1",
+       "wire_type":"unshielded",
+       "intrinsic_safety": false,
+       "Notes": ""
+     },
+    {
+      "name": "CONTROL RELAY",
+      "description": "MCS-CF Control Relay, 4 N.O., 24V DC (w/Elec. Coil)",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "Relay Module",
+      "description": "PX-2903334 - RIF-1-RPT-LDP-24DC/2X21 Push-in connection, 2 changeover contacts. 8 Amp.",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+   {
+       "name":"RJ45 ETHERNET CORD MALE X MALE STRAIGHT X 5'",
+       "description":"240000196",
+       "Responsibility":"CUSTOMER, SKID, PLC",
+        "wire_count": "1",
+         "wire_type":"unshielded",
+         "intrinsic_safety": false,
+         "Notes":"BONDED"
+   }
+  ]
+}
+```
+[09:35:46] Response received with keys: message, done
+[09:35:46] Message contains: content
+[09:35:46]  No thinking field found in response
+[09:35:46] Vision model processing completed.
+[09:35:46] Response received: 4250 characters
+[09:35:46] Raw model response for page 3: ```json
+{
+  "instruments": [
+    {
+      "name": "BARRIER",
+      "description": "230000310 - 230000350",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "2",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "1CH, POTENTIOMETER CONVERTER",
+      "description": "230000350 - KCD2-SCD-EX1",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "shielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "EARTH RAIL",
+      "description": "230000059 - ECINSGB14",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "CARTRIDGE FUSE - LittleFuse 021 5005.HXP",
+      "description": "230000287, 230000041, 230000064 - 5A 250 V AC DC Fuse Cartridge, Ceramic",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "41",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "AUXILIARY CONTACT (2NO)",
+      "description": "TBD - 100-FA20",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "Wire Duct - Panduit F1X4IB6",
+      "description": "Panduit F1X4IB6 Wire Duct, 1\" X 4\", Blue, Lead-Free PVC",
+      "Responsibility": "SKID",
+      "wire_count": "4",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct - Panduit F2X4LG6",
+      "description": "Panduit F2X4LG6 Wire Duct, 2” x 4\" Panduit Wire Duct, Narrow Finger",
+      "Responsibility": "SKID",
+      "wire_count": "4",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct - Panduit F3X4LG6",
+      "description": "Wire duct Panduit F3X4LG6 Lead-free PVC. 3\" x 4" (76.2 mm × 101.6 mm) and 6' (1.83 m) long.",
+      "Responsibility": "SKID",
+      "wire_count": "4",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct Cover - Panduit C1IB6",
+      "description": "Panduit C1IB6 Wire Duct Cover, 1\", Blue, Lead-Free PVC",
+      "Responsibility": "SKID",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct Cover - Panduit C2LG6",
+      "description": "Panduit C2LG6 Wire Duct Cover, 2\", Light-Gray, Lead-Free PVC",
+      "Responsibility": "SKID",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+      "name": "Wire Duct Cover - Panduit C3LG6-F",
+      "description": "Panduit C3LG6-F 3\" Cover Light Grey Panduit SD4H6 Slotted Divider Wall 4\" tall 6' long",
+      "Responsibility": "SKID",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+     {
+       "name": "DIN RAIL",
+       "description": "35MM X 7.5MM X 1M ZINC PLATED STEEL",
+       "Responsibility": "SKID",
+       "wire_count": "1",
+       "wire_type":"unshielded",
+       "intrinsic_safety": false,
+       "Notes": ""
+     },
+    {
+      "name": "CONTROL RELAY",
+      "description": "MCS-CF Control Relay, 4 N.O., 24V DC (w/Elec. Coil)",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+    {
+      "name": "Relay Module",
+      "description": "PX-2903334 - RIF-1-RPT-LDP-24DC/2X21 Push-in connection, 2 changeover contacts. 8 Amp.",
+      "Responsibility": "CUSTOMER, SKID, PLC",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": ""
+    },
+   {
+       "name":"RJ45 ETHERNET CORD MALE X MALE STRAIGHT X 5'",
+       "description":"240000196",
+       "Responsibility":"CUSTOMER, SKID, PLC",
+        "wire_count": "1",
+         "wire_type":"unshielded",
+         "intrinsic_safety": false,
+         "Notes":"BONDED"
+   }
+  ]
+}
+```
+[09:35:46] Parsed page 3: {"plc": "[unclear]", "instruments": [{"name": "BARRIER", "description": "230000310 - 230000350", "Responsibility": "CUSTOMER, SKID, PLC", "wire_count": "2", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "1CH, POTENTIOMETER CONVERTER", "description": "230000350 - KCD2-SCD-EX1", "Responsibility": "CUSTOMER, SKID, PLC", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "EARTH RAIL", "description": "230000059 - ECINSGB14", "Responsibility": "CUSTOMER, SKID, PLC", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "CARTRIDGE FUSE - LittleFuse 021 5005.HXP", "description": "230000287, 230000041, 230000064 - 5A 250 V AC DC Fuse Cartridge, Ceramic", "Responsibility": "CUSTOMER, SKID, PLC", "wire_count": "41", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "AUXILIARY CONTACT (2NO)", "description": "TBD - 100-FA20", "Responsibility": "CUSTOMER, SKID, PLC", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "Wire Duct - Panduit F1X4IB6", "description": "Panduit F1X4IB6 Wire Duct, 1\" X 4\", Blue, Lead-Free PVC", "Responsibility": "SKID", "wire_count": "4", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "Wire Duct - Panduit F2X4LG6", "description": "Panduit F2X4LG6 Wire Duct, 2” x 4\" Panduit Wire Duct, Narrow Finger", "Responsibility": "SKID", "wire_count": "4", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "Wire Duct Cover - Panduit C1IB6", "description": "Panduit C1IB6 Wire Duct Cover, 1\", Blue, Lead-Free PVC", "Responsibility": "SKID", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "Wire Duct Cover - Panduit C2LG6", "description": "Panduit C2LG6 Wire Duct Cover, 2\", Light-Gray, Lead-Free PVC", "Responsibility": "SKID", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "Wire Duct Cover - Panduit C3LG6-F", "description": "Panduit C3LG6-F 3\" Cover Light Grey Panduit SD4H6 Slotted Divider Wall 4\" tall 6' long", "Responsibility": "SKID", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "DIN RAIL", "description": "35MM X 7.5MM X 1M ZINC PLATED STEEL", "Responsibility": "SKID", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "CONTROL RELAY", "description": "MCS-CF Control Relay, 4 N.O., 24V DC (w/Elec. Coil)", "Responsibility": "CUSTOMER, SKID, PLC", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "Relay Module", "description": "PX-2903334 - RIF-1-RPT-LDP-24DC/2X21 Push-in connection, 2 changeover contacts. 8 Amp.", "Responsibility": "CUSTOMER, SKID, PLC", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": ""}, {"name": "RJ45 ETHERNET CORD MALE X MALE STRAIGHT X 5'", "description": "240000196", "Responsibility": "CUSTOMER, SKID, PLC", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "BONDED"}], "Notes": "Response was truncated; partial results recovered."}
+[09:35:46] Processing page 4/17
+[09:35:46] Sending page 4 image + 2128 chars of Docling markdown to vision model...
+[09:35:46] Vision model: gemma3:4b
+[09:35:46] Vision model processing started...
+```json
+{
+    "instruments": [
+        {
+            "name": "HMI146",
+            "description": "Human Machine Interface",
+            "Responsibility": "PLC",
+            "wire_count": "16AWG",
+            "wire_type": "BLUWHT OR GRY 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "ESD260A",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "16AWG",
+            "wire_type": "BLUWHT OR GRY 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "LCP-1 LOCAL CONTROL PANEL",
+            "description": "Local Control Panel",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16AWG",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "PRG174",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "16AWG",
+            "wire_type": "WHT 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "GND STUD-",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "16AWG",
+            "wire_type": "WHT 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        }
+    ]
+}
+```
+[09:36:03] Response received with keys: message, done
+[09:36:03] Message contains: content
+[09:36:03]  No thinking field found in response
+[09:36:03] Vision model processing completed.
+[09:36:03] Response received: 1434 characters
+[09:36:03] Raw model response for page 4: ```json
+{
+    "instruments": [
+        {
+            "name": "HMI146",
+            "description": "Human Machine Interface",
+            "Responsibility": "PLC",
+            "wire_count": "16AWG",
+            "wire_type": "BLUWHT OR GRY 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "ESD260A",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "16AWG",
+            "wire_type": "BLUWHT OR GRY 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "LCP-1 LOCAL CONTROL PANEL",
+            "description": "Local Control Panel",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16AWG",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "PRG174",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "16AWG",
+            "wire_type": "WHT 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "GND STUD-",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "16AWG",
+            "wire_type": "WHT 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        }
+    ]
+}
+```
+[09:36:03] Parsed page 4: {"instruments": [{"name": "HMI146", "description": "Human Machine Interface", "Responsibility": "PLC", "wire_count": "16AWG", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": ""}, {"name": "ESD260A", "description": "[unclear]", "Responsibility": "PLC", "wire_count": "16AWG", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": ""}, {"name": "LCP-1 LOCAL CONTROL PANEL", "description": "Local Control Panel", "Responsibility": "CUSTOMER", "wire_count": "16AWG", "wire_type": "BLU 16AWG", "intrinsic_safety": false, "Notes": ""}, {"name": "PRG174", "description": "[unclear]", "Responsibility": "PLC", "wire_count": "16AWG", "wire_type": "WHT 16AWG", "intrinsic_safety": false, "Notes": ""}, {"name": "GND STUD-", "description": "[unclear]", "Responsibility": "PLC", "wire_count": "16AWG", "wire_type": "WHT 16AWG", "intrinsic_safety": false, "Notes": ""}]}
+[09:36:03] Processing page 5/17
+[09:36:03] Sending page 5 image + 14 chars of Docling markdown to vision model...
+[09:36:03] Vision model: gemma3:4b
+[09:36:03] Vision model processing started...
+```json
+{
+    "instruments": [
+        {
+            "name": "EXTERNAL - PCU RELAY",
+            "description": "[unclear]",
+            "Responsibility": "SKID",
+            "wire_count": "5",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "External to PCU relay; shielded wires."
+        },
+        {
+            "name": "ETHERNET SWITCH, ESTOP RELAY AND TERMINAL",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "23",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connecting to Ethernet switch."
+        },
+        {
+            "name": "VOLTAGE SERVER - SAFE 500V",
+            "description": "[unclear]",
+            "Responsibility": "SKID",
+            "wire_count": "12",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Safe 500V server."
+        },
+        {
+            "name": "INTERNALLY SAFE GROUND",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "1",
+            "wire_type": "power",
+            "intrinsic_safety": false,
+            "Notes": "Ground connection."
+        }
+    ]
+}
+```
+[09:36:18] Response received with keys: message, done
+[09:36:18] Message contains: content
+[09:36:18]  No thinking field found in response
+[09:36:18] Vision model processing completed.
+[09:36:18] Response received: 1266 characters
+[09:36:18] Raw model response for page 5: ```json
+{
+    "instruments": [
+        {
+            "name": "EXTERNAL - PCU RELAY",
+            "description": "[unclear]",
+            "Responsibility": "SKID",
+            "wire_count": "5",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "External to PCU relay; shielded wires."
+        },
+        {
+            "name": "ETHERNET SWITCH, ESTOP RELAY AND TERMINAL",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "23",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connecting to Ethernet switch."
+        },
+        {
+            "name": "VOLTAGE SERVER - SAFE 500V",
+            "description": "[unclear]",
+            "Responsibility": "SKID",
+            "wire_count": "12",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Safe 500V server."
+        },
+        {
+            "name": "INTERNALLY SAFE GROUND",
+            "description": "[unclear]",
+            "Responsibility": "PLC",
+            "wire_count": "1",
+            "wire_type": "power",
+            "intrinsic_safety": false,
+            "Notes": "Ground connection."
+        }
+    ]
+}
+```
+[09:36:18] Parsed page 5: {"instruments": [{"name": "EXTERNAL - PCU RELAY", "description": "[unclear]", "Responsibility": "SKID", "wire_count": "5", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "External to PCU relay; shielded wires."}, {"name": "ETHERNET SWITCH, ESTOP RELAY AND TERMINAL", "description": "[unclear]", "Responsibility": "PLC", "wire_count": "23", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Connecting to Ethernet switch."}, {"name": "VOLTAGE SERVER - SAFE 500V", "description": "[unclear]", "Responsibility": "SKID", "wire_count": "12", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Safe 500V server."}, {"name": "INTERNALLY SAFE GROUND", "description": "[unclear]", "Responsibility": "PLC", "wire_count": "1", "wire_type": "power", "intrinsic_safety": false, "Notes": "Ground connection."}]}
+[09:36:18] Processing page 6/17
+[09:36:18] Sending page 6 image + 4686 chars of Docling markdown to vision model...
+[09:36:18] Vision model: gemma3:4b
+[09:36:18] Vision model processing started...
+```json
+{
+    "instruments": [
+        {
+            "name": "RED_10AWG",
+            "description": "Customer power feed - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to SW200 CB102"
+        },
+        {
+            "name": "CB102",
+            "description": "Circuit Breaker - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to RED_10AWG and TB01PE"
+        },
+        {
+            "name": "RED_14AWG",
+            "description": "Customer power feed - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to CB107 and PS112"
+        },
+        {
+            "name": "CB107",
+            "description": "Circuit Breaker - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to RED_14AWG and HTR107"
+        },
+        {
+            "name": "RED_12AWG",
+            "description": "Customer power feed - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to CB112 and TAS107"
+        },
+        {
+            "name": "CB112",
+            "description": "Circuit Breaker - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to RED_12AWG and PS112"
+        },
+       {
+            "name": "PS112",
+            "description": "Quint P/S - Power Supply",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+        {
+            "name": "RCPT118",
+            "description": "Receptacle - 118",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+        {
+            "name": "TAS107",
+            "description": "Tag - TAS107",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+        {
+            "name": "TB01PE",
+             "description": "TB01-PE",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+         {
+            "name": "HPE",
+             "description": "HTR 107 - Heater",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+        {
+             "name": "WHTBLU_12AWG",
+            "description": "Analog Cable - Belden 8772 or equivalent",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "coax/shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "ESD1260A",
+            "description": "ESW 1260A - Electronic Switch",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "TB01N",
+            "description": "TB01-Neutral",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+      {
+             "name": "TB02",
+            "description": "TB02 - Input Panel",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "CT 1638",
+            "description": "CT - Current Transducer",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "CRT160A",
+            "description": "CRT - Current Transducer",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "CR140A",
+            "description": "CRT - Current Transducer",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        }
+
+    ]
+}
+```
+[09:36:57] Response received with keys: message, done
+[09:36:57] Message contains: content
+[09:36:57]  No thinking field found in response
+[09:36:57] Vision model processing completed.
+[09:36:57] Response received: 5178 characters
+[09:36:57] Raw model response for page 6: ```json
+{
+    "instruments": [
+        {
+            "name": "RED_10AWG",
+            "description": "Customer power feed - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to SW200 CB102"
+        },
+        {
+            "name": "CB102",
+            "description": "Circuit Breaker - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to RED_10AWG and TB01PE"
+        },
+        {
+            "name": "RED_14AWG",
+            "description": "Customer power feed - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to CB107 and PS112"
+        },
+        {
+            "name": "CB107",
+            "description": "Circuit Breaker - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to RED_14AWG and HTR107"
+        },
+        {
+            "name": "RED_12AWG",
+            "description": "Customer power feed - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to CB112 and TAS107"
+        },
+        {
+            "name": "CB112",
+            "description": "Circuit Breaker - Red",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": "Connected to RED_12AWG and PS112"
+        },
+       {
+            "name": "PS112",
+            "description": "Quint P/S - Power Supply",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+        {
+            "name": "RCPT118",
+            "description": "Receptacle - 118",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+        {
+            "name": "TAS107",
+            "description": "Tag - TAS107",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+        {
+            "name": "TB01PE",
+             "description": "TB01-PE",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+         {
+            "name": "HPE",
+             "description": "HTR 107 - Heater",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+        {
+             "name": "WHTBLU_12AWG",
+            "description": "Analog Cable - Belden 8772 or equivalent",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "coax/shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "ESD1260A",
+            "description": "ESW 1260A - Electronic Switch",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "TB01N",
+            "description": "TB01-Neutral",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+      {
+             "name": "TB02",
+            "description": "TB02 - Input Panel",
+            "Responsibility": "SKID",
+            "wire_count": "1",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "CT 1638",
+            "description": "CT - Current Transducer",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "CRT160A",
+            "description": "CRT - Current Transducer",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+
+       {
+             "name": "CR140A",
+            "description": "CRT - Current Transducer",
+            "Responsibility": "SKID",
+            "wire_count": "2",
+            "wire_type": "shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        }
+
+    ]
+}
+```
+[09:36:57] Parsed page 6: {"instruments": [{"name": "RED_10AWG", "description": "Customer power feed - Red", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Connected to SW200 CB102"}, {"name": "CB102", "description": "Circuit Breaker - Red", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Connected to RED_10AWG and TB01PE"}, {"name": "RED_14AWG", "description": "Customer power feed - Red", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Connected to CB107 and PS112"}, {"name": "CB107", "description": "Circuit Breaker - Red", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Connected to RED_14AWG and HTR107"}, {"name": "RED_12AWG", "description": "Customer power feed - Red", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Connected to CB112 and TAS107"}, {"name": "CB112", "description": "Circuit Breaker - Red", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": "Connected to RED_12AWG and PS112"}, {"name": "PS112", "description": "Quint P/S - Power Supply", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "RCPT118", "description": "Receptacle - 118", "Responsibility": "SKID", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "TAS107", "description": "Tag - TAS107", "Responsibility": "SKID", "wire_count": "2", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "TB01PE", "description": "TB01-PE", "Responsibility": "SKID", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "HPE", "description": "HTR 107 - Heater", "Responsibility": "SKID", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "WHTBLU_12AWG", "description": "Analog Cable - Belden 8772 or equivalent", "Responsibility": "SKID", "wire_count": "2", "wire_type": "coax/shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "ESD1260A", "description": "ESW 1260A - Electronic Switch", "Responsibility": "SKID", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "TB01N", "description": "TB01-Neutral", "Responsibility": "SKID", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "TB02", "description": "TB02 - Input Panel", "Responsibility": "SKID", "wire_count": "1", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "CT 1638", "description": "CT - Current Transducer", "Responsibility": "SKID", "wire_count": "2", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "CRT160A", "description": "CRT - Current Transducer", "Responsibility": "SKID", "wire_count": "2", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "CR140A", "description": "CRT - Current Transducer", "Responsibility": "SKID", "wire_count": "2", "wire_type": "shielded", "intrinsic_safety": false, "Notes": ""}]}
+[09:36:57] Processing page 7/17
+[09:36:57] Sending page 7 image + 1988 chars of Docling markdown to vision model...
+[09:36:57] Vision model: gemma3:4b
+[09:36:57] Vision model processing started...
+```json
+{
+    "instruments": [
+        {
+            "name": "INTERNAL DC COM",
+            "description": "Internal DC Common wiring",
+            "Responsibility": "PLC",
+            "wire_count": "2",
+            "wire_type": "BLUWHT OR GRY 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard DC common wiring."
+        },
+        {
+            "name": "EXTERNAL DC COM",
+            "description": "External DC Common wiring",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External DC common wiring."
+        },
+        {
+            "name": "INTERNAL 120VAC",
+            "description": "Internal 120 Volt AC power",
+            "Responsibility": "PLC",
+            "wire_count": "5",
+            "wire_type": "RED 16AWG, BLUWHT OR GRY 16AWG, WHT 16AWG, YEL 16AWG, BLK MIN, 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard 120V AC power distribution."
+        },
+        {
+            "name": "EXTERNAL 120V AC",
+            "description": "External 120 Volt AC power",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "WHT 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard 120V AC power distribution."
+        },
+        {
+            "name": "INTERNAL NEUTRAL",
+            "description": "Internal Neutral wiring",
+            "Responsibility": "PLC",
+            "wire_count": "1",
+            "wire_type": "BLK MIN, 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard neutral wire."
+        },
+         {
+            "name": "EXTERNAL NEUTRAL",
+            "description": "External Neutral wiring",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "BLK MIN, 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard neutral wire."
+        }
+    ]
+}
+```
+[09:37:17] Response received with keys: message, done
+[09:37:17] Message contains: content
+[09:37:17]  No thinking field found in response
+[09:37:17] Vision model processing completed.
+[09:37:17] Response received: 2015 characters
+[09:37:17] Raw model response for page 7: ```json
+{
+    "instruments": [
+        {
+            "name": "INTERNAL DC COM",
+            "description": "Internal DC Common wiring",
+            "Responsibility": "PLC",
+            "wire_count": "2",
+            "wire_type": "BLUWHT OR GRY 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard DC common wiring."
+        },
+        {
+            "name": "EXTERNAL DC COM",
+            "description": "External DC Common wiring",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External DC common wiring."
+        },
+        {
+            "name": "INTERNAL 120VAC",
+            "description": "Internal 120 Volt AC power",
+            "Responsibility": "PLC",
+            "wire_count": "5",
+            "wire_type": "RED 16AWG, BLUWHT OR GRY 16AWG, WHT 16AWG, YEL 16AWG, BLK MIN, 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard 120V AC power distribution."
+        },
+        {
+            "name": "EXTERNAL 120V AC",
+            "description": "External 120 Volt AC power",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "WHT 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard 120V AC power distribution."
+        },
+        {
+            "name": "INTERNAL NEUTRAL",
+            "description": "Internal Neutral wiring",
+            "Responsibility": "PLC",
+            "wire_count": "1",
+            "wire_type": "BLK MIN, 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard neutral wire."
+        },
+         {
+            "name": "EXTERNAL NEUTRAL",
+            "description": "External Neutral wiring",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "BLK MIN, 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Standard neutral wire."
+        }
+    ]
+}
+```
+[09:37:17] Parsed page 7: {"instruments": [{"name": "INTERNAL DC COM", "description": "Internal DC Common wiring", "Responsibility": "PLC", "wire_count": "2", "wire_type": "BLUWHT OR GRY 16AWG", "intrinsic_safety": false, "Notes": "Standard DC common wiring."}, {"name": "EXTERNAL DC COM", "description": "External DC Common wiring", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "BLU 16AWG", "intrinsic_safety": false, "Notes": "External DC common wiring."}, {"name": "INTERNAL 120VAC", "description": "Internal 120 Volt AC power", "Responsibility": "PLC", "wire_count": "5", "wire_type": "RED 16AWG, BLUWHT OR GRY 16AWG, WHT 16AWG, YEL 16AWG, BLK MIN, 16AWG", "intrinsic_safety": false, "Notes": "Standard 120V AC power distribution."}, {"name": "EXTERNAL 120V AC", "description": "External 120 Volt AC power", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "WHT 16AWG", "intrinsic_safety": false, "Notes": "Standard 120V AC power distribution."}, {"name": "INTERNAL NEUTRAL", "description": "Internal Neutral wiring", "Responsibility": "PLC", "wire_count": "1", "wire_type": "BLK MIN, 16AWG", "intrinsic_safety": false, "Notes": "Standard neutral wire."}, {"name": "EXTERNAL NEUTRAL", "description": "External Neutral wiring", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "BLK MIN, 16AWG", "intrinsic_safety": false, "Notes": "Standard neutral wire."}]}
+[09:37:17] Processing page 8/17
+[09:37:17] Sending page 8 image + 2167 chars of Docling markdown to vision model...
+[09:37:17] Vision model: gemma3:4b
+[09:37:17] Vision model processing started...
+```json
+{
+  "instruments": [
+    {
+      "name": "PLC CPU - SLOT 1",
+      "description": "PLC CPU, Slot 1",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+    {
+      "name": "PLC CPU - SLOT 2",
+      "description": "PLC CPU, Slot 2",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+    {
+      "name": "PLC CPU - SLOT 3",
+      "description": "PLC CPU, Slot 3",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "PLC CPU - SLOT 4",
+      "description": "PLC CPU, Slot 4",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+    {
+      "name": "PLC CPU - SLOT 5",
+      "description": "PLC CPU, Slot 5",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "PLC CPU - SLOT 6",
+      "description": "PLC CPU, Slot 6",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "PLC CPU - SLOT 7",
+      "description": "PLC CPU, Slot 7",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "PLC CPU - SLOT 8",
+      "description": "PLC CPU, Slot 8",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Digital Input - 5069-L320ER",
+      "description": "Digital Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Digital Output - 5069-IB16",
+      "description": "Digital Output",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Analog Input - 5069-OB16",
+      "description": "Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Analog Input - 5069-IF8",
+      "description": "Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Analog Input - 5069-IF8",
+      "description": "Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "RTD - 5069-IF8",
+      "description": "RTD",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Field Output - 5069-IY4",
+      "description": "Field Output",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Analog Distributor - Potential - 5069-OF8",
+      "description": "Potential",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Output - 5069-FPD",
+      "description": "Output",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Digital - 5069-OB16",
+      "description": "Digital",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR DI",
+      "description": "Control Digital Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR DO-2",
+      "description": "Control Digital Output",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR AI-1",
+      "description": "Control Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR AI-2",
+      "description": "Control Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR AI-3",
+      "description": "Control Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+       "name": "FPD160",
+       "description": "Field Programmable Device",
+       "Responsibility": "CUSTOMER",
+       "wire_count": "8",
+       "wire_type": "unshielded",
+       "intrinsic_safety": false,
+       "Notes": "Internal wiring"
+     }
+  ]
+}
+```
+[09:38:06] Response received with keys: message, done
+[09:38:06] Message contains: content
+[09:38:06]  No thinking field found in response
+[09:38:06] Vision model processing completed.
+[09:38:06] Response received: 5976 characters
+[09:38:06] Raw model response for page 8: ```json
+{
+  "instruments": [
+    {
+      "name": "PLC CPU - SLOT 1",
+      "description": "PLC CPU, Slot 1",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+    {
+      "name": "PLC CPU - SLOT 2",
+      "description": "PLC CPU, Slot 2",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+    {
+      "name": "PLC CPU - SLOT 3",
+      "description": "PLC CPU, Slot 3",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "PLC CPU - SLOT 4",
+      "description": "PLC CPU, Slot 4",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+    {
+      "name": "PLC CPU - SLOT 5",
+      "description": "PLC CPU, Slot 5",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "PLC CPU - SLOT 6",
+      "description": "PLC CPU, Slot 6",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "PLC CPU - SLOT 7",
+      "description": "PLC CPU, Slot 7",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "PLC CPU - SLOT 8",
+      "description": "PLC CPU, Slot 8",
+      "Responsibility": "PLC",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Digital Input - 5069-L320ER",
+      "description": "Digital Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Digital Output - 5069-IB16",
+      "description": "Digital Output",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Analog Input - 5069-OB16",
+      "description": "Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Analog Input - 5069-IF8",
+      "description": "Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Analog Input - 5069-IF8",
+      "description": "Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "8",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "RTD - 5069-IF8",
+      "description": "RTD",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Field Output - 5069-IY4",
+      "description": "Field Output",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Analog Distributor - Potential - 5069-OF8",
+      "description": "Potential",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Output - 5069-FPD",
+      "description": "Output",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "Digital - 5069-OB16",
+      "description": "Digital",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "16",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR DI",
+      "description": "Control Digital Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR DO-2",
+      "description": "Control Digital Output",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR AI-1",
+      "description": "Control Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR AI-2",
+      "description": "Control Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+      "name": "CNTR AI-3",
+      "description": "Control Analog Input",
+      "Responsibility": "CUSTOMER",
+      "wire_count": "1",
+      "wire_type": "unshielded",
+      "intrinsic_safety": false,
+      "Notes": "Internal wiring"
+    },
+     {
+       "name": "FPD160",
+       "description": "Field Programmable Device",
+       "Responsibility": "CUSTOMER",
+       "wire_count": "8",
+       "wire_type": "unshielded",
+       "intrinsic_safety": false,
+       "Notes": "Internal wiring"
+     }
+  ]
+}
+```
+[09:38:06] Parsed page 8: {"instruments": [{"name": "PLC CPU - SLOT 1", "description": "PLC CPU, Slot 1", "Responsibility": "PLC", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "PLC CPU - SLOT 2", "description": "PLC CPU, Slot 2", "Responsibility": "PLC", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "PLC CPU - SLOT 3", "description": "PLC CPU, Slot 3", "Responsibility": "PLC", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "PLC CPU - SLOT 4", "description": "PLC CPU, Slot 4", "Responsibility": "PLC", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "PLC CPU - SLOT 5", "description": "PLC CPU, Slot 5", "Responsibility": "PLC", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "PLC CPU - SLOT 6", "description": "PLC CPU, Slot 6", "Responsibility": "PLC", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "PLC CPU - SLOT 7", "description": "PLC CPU, Slot 7", "Responsibility": "PLC", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "PLC CPU - SLOT 8", "description": "PLC CPU, Slot 8", "Responsibility": "PLC", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Digital Input - 5069-L320ER", "description": "Digital Input", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Digital Output - 5069-IB16", "description": "Digital Output", "Responsibility": "CUSTOMER", "wire_count": "16", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Analog Input - 5069-OB16", "description": "Analog Input", "Responsibility": "CUSTOMER", "wire_count": "16", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Analog Input - 5069-IF8", "description": "Analog Input", "Responsibility": "CUSTOMER", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Analog Input - 5069-IF8", "description": "Analog Input", "Responsibility": "CUSTOMER", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "RTD - 5069-IF8", "description": "RTD", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Field Output - 5069-IY4", "description": "Field Output", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Analog Distributor - Potential - 5069-OF8", "description": "Potential", "Responsibility": "CUSTOMER", "wire_count": "16", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Output - 5069-FPD", "description": "Output", "Responsibility": "CUSTOMER", "wire_count": "16", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "Digital - 5069-OB16", "description": "Digital", "Responsibility": "CUSTOMER", "wire_count": "16", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "CNTR DI", "description": "Control Digital Input", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "CNTR DO-2", "description": "Control Digital Output", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "CNTR AI-1", "description": "Control Analog Input", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "CNTR AI-2", "description": "Control Analog Input", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "CNTR AI-3", "description": "Control Analog Input", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}, {"name": "FPD160", "description": "Field Programmable Device", "Responsibility": "CUSTOMER", "wire_count": "8", "wire_type": "unshielded", "intrinsic_safety": false, "Notes": "Internal wiring"}]}
+[09:38:06] Processing page 9/17
+[09:38:06] Sending page 9 image + 3354 chars of Docling markdown to vision model...
+[09:38:06] Vision model: gemma3:4b
+[09:38:06] Vision model processing started...
+```json
+{
+    "instruments": [
+        {
+            "name": "XA1265",
+            "description": "MOTOR STATUS FEED COMPRESSOR (1=RUNNING) / (0=FAIL)",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "XA1261",
+            "description": "MOTOR STATUS FEED COMPRESSOR (1=RUNNING) / (0=FAIL)",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "XL1310",
+            "description": "STATUS FEED OIL PUMP MOTOR (1=RUNNING) / REMOTE (1=START)",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "CR163",
+            "description": "PURGE OK",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "CR140",
+            "description": "140",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "CBL414",
+            "description": "MULTI PAIR CABLE BY CLIENT",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "8",
+            "wire_type": "Multi Pair (unspecified)",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "XA1201",
+            "description": "(MULTI PAIR CABLE BY CLIENT)",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "8",
+            "wire_type": "Multi Pair (unspecified)",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "XL1265 (PAIR W1)",
+            "description": "",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "INO",
+            "description": "PLC400 DIGITAL INPUT MODULE",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "12",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "IN1 - IN12",
+            "description": "Digital Input Module (PLC)",
+            "Responsibility": "PLC",
+            "wire_count": "12",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        }
+
+    ]
+}
+```
+[09:38:31] Response received with keys: message, done
+[09:38:31] Message contains: content
+[09:38:31]  No thinking field found in response
+[09:38:31] Vision model processing completed.
+[09:38:31] Response received: 2911 characters
+[09:38:31] Raw model response for page 9: ```json
+{
+    "instruments": [
+        {
+            "name": "XA1265",
+            "description": "MOTOR STATUS FEED COMPRESSOR (1=RUNNING) / (0=FAIL)",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "XA1261",
+            "description": "MOTOR STATUS FEED COMPRESSOR (1=RUNNING) / (0=FAIL)",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "XL1310",
+            "description": "STATUS FEED OIL PUMP MOTOR (1=RUNNING) / REMOTE (1=START)",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "CR163",
+            "description": "PURGE OK",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "CR140",
+            "description": "140",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "CBL414",
+            "description": "MULTI PAIR CABLE BY CLIENT",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "8",
+            "wire_type": "Multi Pair (unspecified)",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "XA1201",
+            "description": "(MULTI PAIR CABLE BY CLIENT)",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "8",
+            "wire_type": "Multi Pair (unspecified)",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+            "name": "XL1265 (PAIR W1)",
+            "description": "",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "2",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "INO",
+            "description": "PLC400 DIGITAL INPUT MODULE",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "12",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+            "name": "IN1 - IN12",
+            "description": "Digital Input Module (PLC)",
+            "Responsibility": "PLC",
+            "wire_count": "12",
+            "wire_type": "Shielded",
+            "intrinsic_safety": false,
+            "Notes": ""
+        }
+
+    ]
+}
+```
+[09:38:31] Parsed page 9: {"instruments": [{"name": "XA1265", "description": "MOTOR STATUS FEED COMPRESSOR (1=RUNNING) / (0=FAIL)", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "Shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "XA1261", "description": "MOTOR STATUS FEED COMPRESSOR (1=RUNNING) / (0=FAIL)", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "Shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "XL1310", "description": "STATUS FEED OIL PUMP MOTOR (1=RUNNING) / REMOTE (1=START)", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "Shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "CR163", "description": "PURGE OK", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "Shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "CR140", "description": "140", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "Shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "CBL414", "description": "MULTI PAIR CABLE BY CLIENT", "Responsibility": "CUSTOMER", "wire_count": "8", "wire_type": "Multi Pair (unspecified)", "intrinsic_safety": false, "Notes": ""}, {"name": "XA1201", "description": "(MULTI PAIR CABLE BY CLIENT)", "Responsibility": "CUSTOMER", "wire_count": "8", "wire_type": "Multi Pair (unspecified)", "intrinsic_safety": false, "Notes": ""}, {"name": "XL1265 (PAIR W1)", "description": "", "Responsibility": "CUSTOMER", "wire_count": "2", "wire_type": "Shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "INO", "description": "PLC400 DIGITAL INPUT MODULE", "Responsibility": "CUSTOMER", "wire_count": "12", "wire_type": "Shielded", "intrinsic_safety": false, "Notes": ""}, {"name": "IN1 - IN12", "description": "Digital Input Module (PLC)", "Responsibility": "PLC", "wire_count": "12", "wire_type": "Shielded", "intrinsic_safety": false, "Notes": ""}]}
+[09:38:31] Processing page 10/17
+[09:38:31] Sending page 10 image + 1705 chars of Docling markdown to vision model...
+[09:38:31] Vision model: gemma3:4b
+[09:38:31] Vision model processing started...
+```json
+{
+    "instruments": [
+        {
+            "name": "INTERNAL DC COM",
+            "description": "Internal DC Common”, BLUWHT OR GRY 16AWG",
+            "Responsibility": "PLC",
+            "wire_count": "2",
+            "wire_type": "stranded, 16AWG, BLUWHT or GRY",
+            "intrinsic_safety": false,
+            "Notes": "Internal DC common connection”"
+        },
+        {
+            "name": "EXTERNAL DC COM",
+            "description": "External DC Common”,”, BLU 16AWG",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, BLU",
+            "intrinsic_safety": false,
+            "Notes": "External DC common connection”"
+        },
+         {
+            "name": "INTERNAL 120VAC",
+            "description": "Internal 120V AC”,”, Red 16AWG”,
+            "Responsibility": "PLC",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, RED",
+            "intrinsic_safety": false,
+            "Notes": "Internal 120V AC connection”"
+        },
+         {
+            "name": "EXTERNAL 120V AC",
+            "description": "External 120V AC”,”, Red 16AWG”,
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, RED",
+            "intrinsic_safety": false,
+            "Notes": "External 120V AC connection”"
+        },
+         {
+            "name": "INTERNAL NEUTRAL",
+            "description": "Internal Neutral”,”, WHT 16AWG”,
+            "Responsibility": "PLC",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, WHT",
+            "intrinsic_safety": false,
+            "Notes": "Internal Neutral connection”"
+        },
+         {
+            "name": "EXTERNAL NEUTRAL",
+            "description": "External Neutral”,”, WHT 16AWG”,
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, WHT",
+            "intrinsic_safety": false,
+            "Notes": "External Neutral connection”"
+        },
+
+         {
+            "name": "220V AC",
+            "description": "220V AC”,”, BLUWHT or GRY 16AWG”,
+            "Responsibility": "CUSTOMER",
+            "wire_count": "3",
+            "wire_type": "stranded, 16AWG, BLUWHT or GRY",
+            "intrinsic_safety": false,
+            "Notes": "220V AC connection”"
+        }
+
+    ]
+}
+```
+[09:38:53] Response received with keys: message, done
+[09:38:53] Message contains: content
+[09:38:53]  No thinking field found in response
+[09:38:53] Vision model processing completed.
+[09:38:53] Response received: 2394 characters
+[09:38:53] Raw model response for page 10: ```json
+{
+    "instruments": [
+        {
+            "name": "INTERNAL DC COM",
+            "description": "Internal DC Common”, BLUWHT OR GRY 16AWG",
+            "Responsibility": "PLC",
+            "wire_count": "2",
+            "wire_type": "stranded, 16AWG, BLUWHT or GRY",
+            "intrinsic_safety": false,
+            "Notes": "Internal DC common connection”"
+        },
+        {
+            "name": "EXTERNAL DC COM",
+            "description": "External DC Common”,”, BLU 16AWG",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, BLU",
+            "intrinsic_safety": false,
+            "Notes": "External DC common connection”"
+        },
+         {
+            "name": "INTERNAL 120VAC",
+            "description": "Internal 120V AC”,”, Red 16AWG”,
+            "Responsibility": "PLC",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, RED",
+            "intrinsic_safety": false,
+            "Notes": "Internal 120V AC connection”"
+        },
+         {
+            "name": "EXTERNAL 120V AC",
+            "description": "External 120V AC”,”, Red 16AWG”,
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, RED",
+            "intrinsic_safety": false,
+            "Notes": "External 120V AC connection”"
+        },
+         {
+            "name": "INTERNAL NEUTRAL",
+            "description": "Internal Neutral”,”, WHT 16AWG”,
+            "Responsibility": "PLC",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, WHT",
+            "intrinsic_safety": false,
+            "Notes": "Internal Neutral connection”"
+        },
+         {
+            "name": "EXTERNAL NEUTRAL",
+            "description": "External Neutral”,”, WHT 16AWG”,
+            "Responsibility": "CUSTOMER",
+            "wire_count": "1",
+            "wire_type": "stranded, 16AWG, WHT",
+            "intrinsic_safety": false,
+            "Notes": "External Neutral connection”"
+        },
+
+         {
+            "name": "220V AC",
+            "description": "220V AC”,”, BLUWHT or GRY 16AWG”,
+            "Responsibility": "CUSTOMER",
+            "wire_count": "3",
+            "wire_type": "stranded, 16AWG, BLUWHT or GRY",
+            "intrinsic_safety": false,
+            "Notes": "220V AC connection”"
+        }
+
+    ]
+}
+```
+[09:38:53] Parsed page 10: {"plc": "[unclear]", "instruments": [{"name": "INTERNAL DC COM", "description": "Internal DC Common”, BLUWHT OR GRY 16AWG", "Responsibility": "PLC", "wire_count": "2", "wire_type": "stranded, 16AWG, BLUWHT or GRY", "intrinsic_safety": false, "Notes": "Internal DC common connection”"}, {"name": "EXTERNAL DC COM", "description": "External DC Common”,”, BLU 16AWG", "Responsibility": "CUSTOMER", "wire_count": "1", "wire_type": "stranded, 16AWG, BLU", "intrinsic_safety": false, "Notes": "External DC common connection”"}], "Notes": "Response was truncated; partial results recovered."}
+[09:38:53] Processing page 11/17
+[09:38:53] Sending page 11 image + 4009 chars of Docling markdown to vision model...
+[09:38:53] Vision model: gemma3:4b
+[09:38:53] Vision model processing started...
+```json
+{
+    "instruments": [
+        {
+            "name": "SV1218",
+            "description": "SLIDE VALVE LOAD",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External customer wiring"
+        },
+        {
+            "name": "SV1220",
+            "description": "SLIDE VALVE UNLOAD",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External customer wiring"
+        },
+        {
+            "name": "SV1226",
+            "description": "COMPRESSOR HIGH STAGE",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External customer wiring"
+        },
+        {
+            "name": "SV1227",
+            "description": "SLIDE VALVE LOAD",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External customer wiring"
+        },
+        {
+            "name": "SV1233",
+            "description": "PURGE SOLENDOID VALVE – COMPRESSOR SUCTION DRY GAS",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External customer wiring"
+        },
+        {
+            "name": "SV1234",
+            "description": "SOLENOID VALVE – OIL RECIRCULATION 1=OPEN",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External customer wiring"
+        },
+        {
+            "name": "SV1238",
+            "description": "SOLENOID VALVE – OIL DRAIN 1=OPEN",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External customer wiring"
+        },
+        {
+            "name": "SV1326",
+            "description": "SOLENOID VALVE – EQUAUIZING 1=OPEN",
+            "Responsibility": "CUSTOMER",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "External customer wiring"
+        },
+        {
+            "name": "XY1262",
+            "description": "START/STOP SIGNAL – COMPRESSOR MOTOR",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Internal PLC connection"
+        },
+        {
+            "name": "XY1313",
+            "description": "START/STOP SIGNAL – OIL PUMP MOTOR",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Internal PLC connection"
+        },
+        {
+            "name": "XY1283",
+            "description": "OIL HEATER – HTR-1280 &amp; 1281",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "BLU 16AWG",
+            "intrinsic_safety": false,
+            "Notes": "Internal PLC connection"
+        },
+        {
+             "name": "CR604",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+             "name": "CR606",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+             "name": "CR608",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+        {
+             "name": "CR610",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR612",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR614",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR616",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR618",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR622",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR624",
+            "description": "ON",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR626",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR628",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR630",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR632",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR634",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16",
+            "wire_type": "RED 16AWG",
+            "intrinsic_safety": false,
+            "Notes": ""
+        },
+         {
+             "name": "CR636",
+            "description": "NC",
+            "Responsibility": "PLC",
+            "wire_count": "16

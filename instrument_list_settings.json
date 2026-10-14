@@ -1,0 +1,53 @@
+{
+  "mode": "all",
+  "controls_pdf": "C:/Users/rperry/source/repos/Drawing to instrument list translator/test_results/PG-984E Rev4.pdf",
+  "controls_pages": "",
+  "pids_pdf": "C:/Users/rperry/source/repos/Drawing to instrument list translator/test_results/PG-984B PI REV 3.pdf",
+  "pids_pages": "",
+  "controls_json": "",
+  "pids_json": "",
+  "model": "Claude Code: default",
+  "api_key": "",
+  "out_dir": "",
+  "save_excel": true,
+  "use_ocr": true,
+  "advanced_open": false,
+  "controls_model": "",
+  "pids_model": "",
+  "combine_model": "",
+  "max_tokens": "32000",
+  "dpi": "",
+  "auto_reference": true,
+  "controls_reference": "C:/Users/rperry/source/repos/Drawing to instrument list translator/AI Reference - Controls.png",
+  "pids_reference": "C:/Users/rperry/source/repos/Drawing to instrument list translator/AI Reference - P&IDs.png",
+  "ocr_scale": "3.0",
+  "ocr_tables": true,
+  "ocr_pictures": false,
+  "fill_workbook": true,
+  "workbook_template": "c:\\Users\\rperry\\source\\repos\\Drawing to instrument list translator\\Instrument Cable Calculations.xlsx",
+  "history": {
+    "controls_pdf": [
+      "C:/Users/rperry/source/repos/Drawing to instrument list translator/test_results/PG-984E Rev4.pdf",
+      "C:/Users/rperry/source/repos/Drawing to instrument list translator/test_results/Controls-Testing.pdf"
+    ],
+    "pids_pdf": [
+      "C:/Users/rperry/source/repos/Drawing to instrument list translator/test_results/PG-984B PI REV 3.pdf"
+    ]
+  },
+  "known_models": {
+    "gemma3:4b": true,
+    "ibm/granite-docling:258m": true,
+    "ibm/granite3.3-vision:2b": true,
+    "nomic-embed-text-v2-moe:latest": true,
+    "qwen3-vl:4b-instruct": true,
+    "Claude Code: default": true,
+    "Claude Code: sonnet": true,
+    "Claude Code: opus": true,
+    "Claude Code: haiku": true,
+    "Claude Code: claude-fable-5-1": true,
+    "Claude Code: claude-opus-5-5": true,
+    "Claude Code: claude-sonnet-5-5": true,
+    "Claude Code: claude-haiku-5-5": true
+  },
+  "geometry": "3440x1369+227+270"
+}

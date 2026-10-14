@@ -1,0 +1,7 @@
+/logs
+/.venv
+/.claude
+/__pycache__
+/ocr_cache
+/test_results
+/Testing

@@ -1,0 +1,13 @@
+docling==2.97.0
+docling-core==2.78.1
+ollama==0.6.3
+openpyxl==3.1.5
+pandas==3.0.6
+pdfconverter==1.0.1
+ocrmypdf
+pillow==12.3.0
+pptxtopdf==0.0.2
+pymupdf==1.28.2
+requests==2.34.2
+
+onnxruntime==1.30.0
